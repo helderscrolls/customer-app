@@ -1,4 +1,4 @@
-# customer-list-app-frontend
+# customer-list-app-frontend (My First Vue App, with NestJS/MongoDB Back-end)
 
 ## Project setup
 ```
